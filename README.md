@@ -45,4 +45,5 @@ Une liste d'outils à utiliser dans nos CTFs
 - Best font for extended reversing (or how to stay sane) : https://github.com/adobe-fonts/source-code-pro
 - Best libre diff tool : http://kdiff3.sourceforge.net/
 - For all your conversion needs : https://kt.pe/tools.html#conv/
+- More advanced conversion needs : https://gchq.github.io/CyberChef/ (eg PEM to Hex / Punnycode / TCP checksum)
 - API for getting info about ip/location : https://ifconfig.co/
